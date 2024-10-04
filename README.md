@@ -1,4 +1,4 @@
 # odin-recipes
  My 1st in The Odin Project
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+ 
+<a href="https://github.com/your-username/your-repo" target="_blank">The Odin Recipes</a>
